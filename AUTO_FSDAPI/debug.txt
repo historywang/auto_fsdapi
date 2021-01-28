@@ -1,0 +1,620 @@
+2021-01-27 14:57:28 [MainThread:4352] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 14:57:28 [MainThread:4352] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 14:57:28 [MainThread:4352] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 14:57:28 [MainThread:4352] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:36:52 [MainThread:12004] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:36:52 [MainThread:12004] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:36:52 [MainThread:12004] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:36:52 [MainThread:12004] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getDesktopGroupAvailableResources 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getAvailablePoints 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:38:29 [MainThread:13968] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getAllAvailablePoints 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 16:47:05 [MainThread:15108] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:47:05 [MainThread:15108] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getAvailablePoints 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 16:48:37 [MainThread:4032] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:49:26 [MainThread:14088] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:49:26 [MainThread:14088] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:33 [MainThread:13744] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:51:53 [MainThread:9024] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 16:52:21 [MainThread:9944] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:52:21 [MainThread:9944] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:53:40 [MainThread:15332] [apilogger:42] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "参数校验失败:[桌面组名称, 数据盘]", "detailErrorReason": "参数校验失败", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-27 16:53:41 [MainThread:15332] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 16:57:43 [MainThread:3548] [apilogger:41] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:59] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:59] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:59] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:40] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:59] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:01:33 [MainThread:6076] [apilogger:59] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:01:43 [MainThread:14188] [apilogger:40] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 17:03:36 [MainThread:9796] [apilogger:40] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常name 'keys_path' is not defined
+2021-01-27 17:05:43 [MainThread:2116] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:07:01 [MainThread:13988] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:07:01 [MainThread:13988] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getDesktopGroupAvailableResources 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 17:07:01 [MainThread:13988] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getAvailablePoints 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 17:07:01 [MainThread:13988] [apilogger:129] [requestapi.py:requestapi:Sendrequest] [ERROR]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/getAllAvailablePoints 
+[请求参数]:null 
+[异常错误]Expecting value: line 1 column 1 (char 0)
+2021-01-27 17:09:20 [MainThread:11952] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:09:20 [MainThread:11952] [apilogger:123] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//gateway/user/desktopGroup/getAllAvailablePoints 
+[请求参数]:null 
+[相应码]:403 
+[相应内容]{"error":"access_denied","error_description":"Access is denied"}
+2021-01-27 17:17:31 [MainThread:7580] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:18:15 [MainThread:15136] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:26:52 [MainThread:7852] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:28:01 [MainThread:3036] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:29:57 [MainThread:9060] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:30:44 [MainThread:13968] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:31:25 [MainThread:13388] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:31:49 [MainThread:7544] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:32:36 [MainThread:12236] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:33:27 [MainThread:3476] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:34:38 [MainThread:2844] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:34:38 [MainThread:2844] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": 61
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:34:54 [MainThread:13388] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:34:54 [MainThread:13388] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": 61
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:35:37 [MainThread:9104] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:35:37 [MainThread:9104] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": 61
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:35:56 [MainThread:13180] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:35:57 [MainThread:13180] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": 61
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:36:29 [MainThread:10824] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:36:30 [MainThread:10824] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": null
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:37:29 [MainThread:14984] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:37:29 [MainThread:14984] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": 61
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:38:26 [MainThread:15596] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:38:27 [MainThread:15596] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": null
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:39:16 [MainThread:15572] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:39:16 [MainThread:15572] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": null
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:40:02 [MainThread:16280] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:40:03 [MainThread:16280] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/desktopGroup/deleteDesktopGroup 
+[请求参数]:{
+    "desktopGroupIds": [
+        61
+    ]
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-27 17:40:59 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:40:59 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:40:59 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:40:59 [MainThread:15924] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:40:59 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:00 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:01 [MainThread:15924] [apilogger:58] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-27 17:41:13 [MainThread:16120] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-27 17:42:41 [MainThread:15964] [apilogger:39] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[30].id,异常'bool' object is not subscriptable
+2021-01-28 09:11:38 [MainThread:8632] [apilogger:47] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'id'
+2021-01-28 09:11:38 [MainThread:8632] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/user/createUser 
+[请求参数]:null 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-28 09:13:36 [MainThread:4440] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/user/createUser 
+[请求参数]:{
+    "username": "FSD001",
+    "name": "FSD001",
+    "groupId": 73,
+    "email": "FSD001@troila.com",
+    "phone": "17145785412",
+    "userPlotId": null
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-28 09:13:36 [MainThread:4440] [apilogger:47] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'id'
+2021-01-28 09:14:26 [MainThread:3020] [apilogger:124] [requestapi.py:requestapi:Sendrequest] [WARNING]:  
+[请求url]:http://172.27.132.251//user/user/createUser 
+[请求参数]:{
+    "username": "FSD001",
+    "name": "FSD001",
+    "groupId": 73,
+    "email": "FSD001@troila.com",
+    "phone": "17145785412",
+    "userPlotId": null
+} 
+[相应码]:405 
+[相应内容]<html>
+<head><title>405 Not Allowed</title></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:20:40 [MainThread:3060] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:21 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:22 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:22 [MainThread:10404] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:39 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:39 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:39 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:21:40 [MainThread:11676] [apilogger:52] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:16 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:17 [MainThread:8412] [apilogger:72] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:32 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:33 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:28:33 [MainThread:9680] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:01 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:01 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:01 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:02 [MainThread:14008] [apilogger:53] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:58 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id,异常'str' object has no attribute 'spilt'
+2021-01-28 10:33:59 [MainThread:10312] [apilogger:54] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常'str' object has no attribute 'spilt'
+2021-01-28 10:48:05 [MainThread:5404] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 10:49:46 [MainThread:8116] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 10:50:21 [MainThread:12208] [apilogger:56] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 10:50:31 [MainThread:9824] [apilogger:56] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 10:50:53 [MainThread:11696] [apilogger:57] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 10:52:09 [MainThread:2528] [apilogger:58] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId,异常list index out of range
+2021-01-28 11:02:03 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:03 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId;FSD0014->$.infoData.list[-1].networkUUID;FSD0014->$.infoData.list[-1].networkId;FSD0012->$.infoData.list[-1].id;FSD0013->$.infoData.list[-1].id;,异常'bool' object is not subscriptable
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:04 [MainThread:7208] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:02:15 [MainThread:12480] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId;FSD0014->$.infoData.list[-1].networkUUID;FSD0014->$.infoData.list[-1].networkId;FSD0012->$.infoData.list[-1].id;FSD0013->$.infoData.list[-1].id;,异常'bool' object is not subscriptable
+2021-01-28 11:03:46 [MainThread:13768] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId;FSD0014->$.infoData.list[-1].networkUUID;FSD0014->$.infoData.list[-1].networkId;FSD0012->$.infoData.list[-1].id;FSD0013->$.infoData.list[0].id,异常'bool' object is not subscriptable
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;FSD0011->$.infoData.list[0].userId;FSD0014->$.infoData.list[-1].networkUUID;FSD0014->$.infoData.list[-1].networkId;FSD0012->$.infoData.list[-1].id;FSD0013->$.infoData.list[0].id,异常'bool' object is not subscriptable
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:04 [MainThread:8796] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 11:05:38 [MainThread:12588] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[-1].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 11:09:51 [MainThread:4440] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[$.infoData.list.length()-1].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 11:22:05 [MainThread:4684] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[-1:].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:07:30 [MainThread:11180] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID;
+FSD0014->$.infoData.list[(@.length-1)].networkId,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:08:18 [MainThread:11752] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:40 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:41 [MainThread:9680] [apilogger:74] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:09:49 [MainThread:13280] [apilogger:55] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:42:26 [MainThread:11312] [apilogger:56] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:43:45 [MainThread:5536] [apilogger:56] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:52 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:57] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:47:53 [MainThread:8776] [apilogger:76] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:48:02 [MainThread:1176] [apilogger:57] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:26 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:58] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:27 [MainThread:4832] [apilogger:77] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 12:50:39 [MainThread:2384] [apilogger:58] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 12:51:32 [MainThread:2576] [apilogger:59] [reply_data.py:reply_data:get_reply_value] [ERROR]:  前置条件FSD0003->$.infoData.list[0].id;
+FSD0011->$.infoData.list[0].userId;
+FSD0014->$.infoData.list[(@.length-1)].networkUUID,异常'<' not supported between instances of 'NoneType' and 'int'
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:46 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:47 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:47 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:47 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:47 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:20:47 [MainThread:1636] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:53 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错
+2021-01-28 13:21:54 [MainThread:12952] [apilogger:75] [reply_data.py:reply_data:set_cellvalue] [ERROR]:  表格写入报错

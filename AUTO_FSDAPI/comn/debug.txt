@@ -1,0 +1,5 @@
+2021-01-19 10:28:52 [MainThread:6668] [apilogger:23] [assert.py:assert:assert_code] [INFO]:  此断言结束
+2021-01-19 10:29:57 [MainThread:7912] [apilogger:21] [assert.py:assert:assert_code] [ERROR]:  期望码abccc,实际响应码200,失败
+2021-01-19 10:30:21 [MainThread:8080] [apilogger:21] [assert.py:assert:assert_code] [ERROR]:  期望码False,实际响应码200,失败
+2021-01-19 10:31:04 [MainThread:8704] [apilogger:22] [assert.py:assert:assert_code] [ERROR]:  期望码False,实际响应码200,失败
+2021-01-19 10:31:13 [MainThread:6724] [apilogger:20] [assert.py:assert:assert_code] [INFO]:  期望码200,实际响应码200,通过
