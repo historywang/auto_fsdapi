@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "df7b58d4771bfde26e37bea7995af1a5",
+    "name" : "FSD3.2接口测试",
+    "statistic" : {
+      "failed" : 4,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 10,
+      "unknown" : 0,
+      "total" : 14
+    }
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "uid" : "9d233c02f117c294",
+  "name" : "获取安全组信息列表（有修改）",
+  "fullName" : "test_case.test_api.TestCase#test_autoapi",
+  "historyId" : "3bf1743bb231dd33eeb1ae7dca8c22ce",
+  "time" : {
+    "start" : 1611817807589,
+    "stop" : 1611817807652,
+    "duration" : 63
+  },
+  "description" : "获取安全组信息列表（无分页）。",
+  "descriptionHtml" : "<p>获取安全组信息列表（无分页）。</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1611817807589,
+      "stop" : 1611817807589,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "获取安全组信息列表（无分页）。",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3b943ded760e29f7",
+      "name" : "请求url",
+      "source" : "3b943ded760e29f7.attach",
+      "type" : "text/plain",
+      "size" : 74
+    }, {
+      "uid" : "cbb93bdd021741aa",
+      "name" : "请求方式",
+      "source" : "cbb93bdd021741aa.attach",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "8f854a20737bc81e",
+      "name" : "请求头",
+      "source" : "8f854a20737bc81e.attach",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "239ec4db42f147cb",
+      "name" : "请求参数",
+      "source" : "239ec4db42f147cb.attach",
+      "type" : "text/plain",
+      "size" : 70
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "获取安全组信息列表（有修改）"
+  }, {
+    "name" : "feature",
+    "value" : "FSD3.2接口测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "uy7-lkjhh"
+  }, {
+    "name" : "thread",
+    "value" : "2532-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casedatas",
+    "value" : "{'caseid': 'FSD0012', 'casestroy': '获取安全组信息列表（有修改）', 'casetitle': '获取安全组信息列表（有修改）', 'description': '获取安全组信息列表（无分页）。', 'url': '/gateway/securityGroup/security/getSecurityGroupList', 'method': 'GET', 'content-type': None, 'datas': '{\\n    \"id\": null,\\n    \"securityGroupName\": null,\\n    \"publicity\": 1,\\n    \"groupId\": 73\\n}', 'statusMsg': '[\\n    \"statusMsg\",\\n    \"detailErrorReason\",\\n    \"statusCode\",\\n    \"infoData\"\\n]', 'file': None, 'isrun': True, 'relykey': 'groupId', 'preconditions': 'FSD0003->$.infoData.list[0].id', 'exportfile': None, 'response_data': '{\\n    \"statusMsg\": \"操作成功\",\\n    \"infoData\": {\\n        \"list\": [\\n            {\\n                \"securityGroupName\": \"liang\",\\n                \"securityGroupId\": \"1d1101ab-d6fa-4402-9324-8c1794dafc5e\",\\n                \"createtime\": \"2021-01-25 17:34:42\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"\",\\n                \"id\": 31,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"UI安全组\",\\n                \"securityGroupId\": \"5048fda3-e50a-44a9-88ae-ad6294cd20ae\",\\n                \"createtime\": \"2021-01-18 14:04:03\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"自动化测试平台使用\",\\n                \"id\": 22,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"11\",\\n                \"securityGroupId\": \"26a457d7-e61e-4148-9665-a4d178b9fd9a\",\\n                \"createtime\": \"2021-01-12 18:10:24\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"\",\\n                \"id\": 4,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"default\",\\n                \"securityGroupId\": \"3d05dc68-dfe2-488f-a71c-a3fd8462b25d\",\\n                \"createtime\": \"2021-01-11 11:18:30\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"默认安全组\",\\n                \"id\": 1,\\n                \"isOperation\": 0\\n            }\\n        ]\\n    },\\n    \"statusCode\": 0\\n}', 'exp_code': 200, 'exp_msg': '操作成功'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d233c02f117c294.json",
+  "parameterValues" : [ "{'caseid': 'FSD0012', 'casestroy': '获取安全组信息列表（有修改）', 'casetitle': '获取安全组信息列表（有修改）', 'description': '获取安全组信息列表（无分页）。', 'url': '/gateway/securityGroup/security/getSecurityGroupList', 'method': 'GET', 'content-type': None, 'datas': '{\\n    \"id\": null,\\n    \"securityGroupName\": null,\\n    \"publicity\": 1,\\n    \"groupId\": 73\\n}', 'statusMsg': '[\\n    \"statusMsg\",\\n    \"detailErrorReason\",\\n    \"statusCode\",\\n    \"infoData\"\\n]', 'file': None, 'isrun': True, 'relykey': 'groupId', 'preconditions': 'FSD0003->$.infoData.list[0].id', 'exportfile': None, 'response_data': '{\\n    \"statusMsg\": \"操作成功\",\\n    \"infoData\": {\\n        \"list\": [\\n            {\\n                \"securityGroupName\": \"liang\",\\n                \"securityGroupId\": \"1d1101ab-d6fa-4402-9324-8c1794dafc5e\",\\n                \"createtime\": \"2021-01-25 17:34:42\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"\",\\n                \"id\": 31,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"UI安全组\",\\n                \"securityGroupId\": \"5048fda3-e50a-44a9-88ae-ad6294cd20ae\",\\n                \"createtime\": \"2021-01-18 14:04:03\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"自动化测试平台使用\",\\n                \"id\": 22,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"11\",\\n                \"securityGroupId\": \"26a457d7-e61e-4148-9665-a4d178b9fd9a\",\\n                \"createtime\": \"2021-01-12 18:10:24\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"\",\\n                \"id\": 4,\\n                \"isOperation\": 0\\n            },\\n            {\\n                \"securityGroupName\": \"default\",\\n                \"securityGroupId\": \"3d05dc68-dfe2-488f-a71c-a3fd8462b25d\",\\n                \"createtime\": \"2021-01-11 11:18:30\",\\n                \"groupName\": \"-\",\\n                \"groupId\": 1,\\n                \"description\": \"默认安全组\",\\n                \"id\": 1,\\n                \"isOperation\": 0\\n            }\\n        ]\\n    },\\n    \"statusCode\": 0\\n}', 'exp_code': 200, 'exp_msg': '操作成功'}" ]
+}

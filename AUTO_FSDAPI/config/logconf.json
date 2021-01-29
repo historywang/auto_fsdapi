@@ -1,0 +1,38 @@
+{
+    "?version": "版本号",
+    "version": 1,
+    "?disable_existing_loggers": "默认值为True(为了向后兼容)表示禁用已经存在的logger;\n\n如果值为False则对已存在的loggers保持启动状态",
+    "disable_existing_loggers": false,
+    "formatters": {
+        "standard": {
+            "format": "%(asctime)s [%(threadName)s:%(thread)d] [%(name)s:%(lineno)d] [%(filename)s:%(module)s:%(funcName)s] [%(levelname)s]:  %(message)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S"
+        }
+    },
+    "?handlers":"处理器，StreamHandler将日志消息发送到输出到Stream,即在控制台显示;\n\nhandlers.RotatingFileHandler将日志消息发送到磁盘文件，并支持日志文件按大小切割",
+    "handlers": {
+        "console": {
+            "class": "logging.StreamHandler",
+            "level": "DEBUG",
+            "formatter": "standard"
+        },
+        "debug": {
+            "class": "logging.handlers.RotatingFileHandler",
+            "level": "DEBUG",
+            "formatter": "standard",
+            "filename": "./log/debug.txt",
+            "maxBytes": 5242880,
+            "backupCount": 5,
+            "mode":"a",
+            "encoding": "utf8"
+        }
+
+    },
+    "loggers": {
+        "apilogger": {
+            "level": "DEBUG",
+            "handlers": ["console", "debug"]
+        }
+    }
+
+}

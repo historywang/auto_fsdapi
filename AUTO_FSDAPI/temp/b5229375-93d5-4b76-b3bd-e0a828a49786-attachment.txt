@@ -1,0 +1,3 @@
+[31m[1mERROR   [0m apilogger:reply_data.py:111 表格写入报错
+[31m[1mERROR   [0m apilogger:reply_data.py:111 表格写入报错
+[31m[1mERROR   [0m apilogger:asserter.py:31 期望码201,实际响应码200,失败

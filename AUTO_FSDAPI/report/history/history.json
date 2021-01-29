@@ -1,0 +1,291 @@
+{
+  "3c13f098ab0a64a86a15f0402f7266cb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f21f57534aef5809",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086629,
+        "stop" : 1611827086695,
+        "duration" : 66
+      }
+    } ]
+  },
+  "0a7feacb9216101b0720c5200e1957f4" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c397e169313f291a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 期望码201,实际响应码200,失败",
+      "time" : {
+        "start" : 1611827086254,
+        "stop" : 1611827086348,
+        "duration" : 94
+      }
+    } ]
+  },
+  "879ab8fd358fd3966f3e91883f6febae" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eaaf752975a3f965",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 实际结果{\"statusMsg\": \"桌面组名称已存在\", \"detailErrorReason\": \"桌面组名称已存在\", \"statusCode\": 1}并不包含期望内容,期望内容是操作成功,失败",
+      "time" : {
+        "start" : 1611827085807,
+        "stop" : 1611827085951,
+        "duration" : 144
+      }
+    } ]
+  },
+  "83edb98f91ffd9c27752c5b33df16a95" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "329f2060aa2f6426",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086188,
+        "stop" : 1611827086251,
+        "duration" : 63
+      }
+    } ]
+  },
+  "3247131495517bb981c79fe21af32ad8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "543da01b37f91539",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086355,
+        "stop" : 1611827086417,
+        "duration" : 62
+      }
+    } ]
+  },
+  "e338300e83c121567b5ef2dc6d7b96e2" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3934fd9fb001f31",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 实际结果{\"statusMsg\": \"桌面组名称已存在\", \"detailErrorReason\": \"桌面组名称已存在\", \"statusCode\": 1}并不包含期望内容,期望内容是操作成功,失败",
+      "time" : {
+        "start" : 1611827085572,
+        "stop" : 1611827085635,
+        "duration" : 63
+      }
+    } ]
+  },
+  "505df9ce971517d2c7a70c7357de7edf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bde6c18083f27024",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086517,
+        "stop" : 1611827086627,
+        "duration" : 110
+      }
+    } ]
+  },
+  "c2b9f141d0cc625c5fdafc38be043bc1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a9fe0e0411c684f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827085426,
+        "stop" : 1611827085569,
+        "duration" : 143
+      }
+    } ]
+  },
+  "47359e0d55010950f473d24431484991" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8296e1f124a79d5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827085745,
+        "stop" : 1611827085791,
+        "duration" : 46
+      }
+    } ]
+  },
+  "3bf1743bb231dd33eeb1ae7dca8c22ce" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8feeadc3df9dbbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086421,
+        "stop" : 1611827086476,
+        "duration" : 55
+      }
+    } ]
+  },
+  "d3bfd98f930b1bcaded62b9c5cc71a1f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53ee7f3c94ecd312",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827085682,
+        "stop" : 1611827085729,
+        "duration" : 47
+      }
+    } ]
+  },
+  "f094adb6a3e410067ec1e3984ce77f00" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "af97a7d4c430e1a6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 实际结果{\"statusMsg\": \"网络可用IP不足!\", \"detailErrorReason\": \"网络可用IP不足!\", \"statusCode\": 1}并不包含期望内容,期望内容是操作成功,失败",
+      "time" : {
+        "start" : 1611827086697,
+        "stop" : 1611827086802,
+        "duration" : 105
+      }
+    } ]
+  },
+  "74464fc0d82d2e071324ba06a20c1b6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ee243fbd2d95d43c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086478,
+        "stop" : 1611827086514,
+        "duration" : 36
+      }
+    } ]
+  },
+  "e4b42be9c298f072e379e443337079b4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "44699d77e60fc931",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086076,
+        "stop" : 1611827086185,
+        "duration" : 109
+      }
+    } ]
+  },
+  "f142573ff49353d541ba2114b3474f39" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "804d7f48d3aff342",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611827086005,
+        "stop" : 1611827086073,
+        "duration" : 68
+      }
+    } ]
+  }
+}

@@ -1,0 +1,4 @@
+2021-01-28 17:44:45 [MainThread:14816] [apilogger:45] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "桌面组名称已存在", "detailErrorReason": "桌面组名称已存在", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-28 17:44:45 [MainThread:14816] [apilogger:45] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "桌面组名称已存在", "detailErrorReason": "桌面组名称已存在", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败
+2021-01-28 17:44:46 [MainThread:14816] [apilogger:31] [asserter.py:asserter:assert_code] [ERROR]:  期望码201,实际响应码200,失败
+2021-01-28 17:44:46 [MainThread:14816] [apilogger:45] [asserter.py:asserter:assert_in_body] [ERROR]:  实际结果{"statusMsg": "网络可用IP不足!", "detailErrorReason": "网络可用IP不足!", "statusCode": 1}并不包含期望内容,期望内容是操作成功,失败

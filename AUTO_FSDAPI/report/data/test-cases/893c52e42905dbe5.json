@@ -1,0 +1,115 @@
+{
+  "uid" : "893c52e42905dbe5",
+  "name" : "根据用户角色返回系统或桌面组的剩余授权点数",
+  "fullName" : "test_case.test_api.TestCase#test_autoapi",
+  "historyId" : "e4b42be9c298f072e379e443337079b4",
+  "time" : {
+    "start" : 1611826887658,
+    "stop" : 1611826887744,
+    "duration" : 86
+  },
+  "description" : "根据用户角色返回系统或桌面组的剩余授权点数",
+  "descriptionHtml" : "<p>根据用户角色返回系统或桌面组的剩余授权点数</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1611826887658,
+      "stop" : 1611826887658,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "根据用户角色返回系统或桌面组的剩余授权点数",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "baf0690188679c4",
+      "name" : "请求url",
+      "source" : "baf0690188679c4.attach",
+      "type" : "text/plain",
+      "size" : 67
+    }, {
+      "uid" : "468561bac9faa0ac",
+      "name" : "请求方式",
+      "source" : "468561bac9faa0ac.attach",
+      "type" : "text/plain",
+      "size" : 3
+    }, {
+      "uid" : "72c9eb230adf9437",
+      "name" : "请求头",
+      "source" : "72c9eb230adf9437.attach",
+      "type" : "text/plain",
+      "size" : 64
+    }, {
+      "uid" : "6037d1ba62d292ed",
+      "name" : "请求参数",
+      "source" : "6037d1ba62d292ed.attach",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "根据用户角色返回系统或桌面组的剩余授权点数"
+  }, {
+    "name" : "feature",
+    "value" : "FSD3.2接口测试"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase"
+  }, {
+    "name" : "host",
+    "value" : "uy7-lkjhh"
+  }, {
+    "name" : "thread",
+    "value" : "14984-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "casedatas",
+    "value" : "{'caseid': 'FSD0007', 'casestroy': '根据用户角色返回系统或桌面组的剩余授权点数', 'casetitle': '根据用户角色返回系统或桌面组的剩余授权点数', 'description': '根据用户角色返回系统或桌面组的剩余授权点数', 'url': '/gateway/user/desktopGroup/getAvailablePoints', 'method': 'GET', 'content-type': None, 'datas': None, 'statusMsg': '[\\n    \"statusMsg\",\\n    \"detailErrorReason\",\\n    \"statusCode\",\\n    \"infoData\"\\n]', 'file': None, 'isrun': True, 'relykey': None, 'preconditions': None, 'exportfile': None, 'response_data': '{\\n    \"statusMsg\": \"操作成功\",\\n    \"infoData\": {\\n        \"desktop\": 997\\n    },\\n    \"statusCode\": 0\\n}', 'exp_code': 200, 'exp_msg': '操作成功'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "893c52e42905dbe5.json",
+  "parameterValues" : [ "{'caseid': 'FSD0007', 'casestroy': '根据用户角色返回系统或桌面组的剩余授权点数', 'casetitle': '根据用户角色返回系统或桌面组的剩余授权点数', 'description': '根据用户角色返回系统或桌面组的剩余授权点数', 'url': '/gateway/user/desktopGroup/getAvailablePoints', 'method': 'GET', 'content-type': None, 'datas': None, 'statusMsg': '[\\n    \"statusMsg\",\\n    \"detailErrorReason\",\\n    \"statusCode\",\\n    \"infoData\"\\n]', 'file': None, 'isrun': True, 'relykey': None, 'preconditions': None, 'exportfile': None, 'response_data': '{\\n    \"statusMsg\": \"操作成功\",\\n    \"infoData\": {\\n        \"desktop\": 997\\n    },\\n    \"statusCode\": 0\\n}', 'exp_code': 200, 'exp_msg': '操作成功'}" ]
+}
