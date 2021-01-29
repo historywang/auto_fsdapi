@@ -61,8 +61,8 @@ class Handle_replydata(object):
                 li_replyparam=replyparam.replace("\n","").split("->")
                 if len(li_replyparam) > 0:
                     caseid, keyspath = li_replyparam
-                    #获取写入excel表格中的响应数据
-                    response_data=self.excel.get_cell_value(self.excel.get_row_index("A", caseid), 15)
+                    #获取写入excel表格中的响应数据，对应response_data
+                    response_data=self.excel.get_cell_value(self.excel.get_row_index("A", caseid), 14)
                     #获取依赖数据
                     getvalues=jsonpath.jsonpath(json.loads(response_data), keyspath)
                     #根据需要将依赖数据加到reply_values列表中
@@ -104,9 +104,11 @@ class Handle_replydata(object):
                 datas=json.dumps(datas, indent=4, ensure_ascii=False)
             rowindx=self.excel.get_row_index("A",caseid)
             if type==1:
+                #第8列为请求参数列，datas
                 self.excel.set_cell_value(row=rowindx,col=8,value=datas)
             elif type==2:
-                self.excel.set_cell_value(row=rowindx,col=15,value=datas)
+                # 第14列为响应数据列，response_data
+                self.excel.set_cell_value(row=rowindx,col=14,value=datas)
         except Exception as e:
             self.log.logger.error("表格写入报错".format(e))
 
